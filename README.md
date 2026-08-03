@@ -76,8 +76,7 @@ Full-stack expense-splitting web application for groups sharing trip or rent cos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrimankar16&show_icons=true&theme=nord&border_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimankar16&layout=compact&theme=nord&border_color=7dd3fc&text_color=7dd3fc" width="48%" />
+
 
 <img src="https://streak-stats.demolab.com/?user=shrimankar16&theme=nord&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
 
