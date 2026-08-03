@@ -82,11 +82,6 @@ Full-stack expense-splitting web application for groups sharing trip or rent cos
 
 </div>
 
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shrimankar16&no-frame=true&no-bg=true&theme=nord&column=7" />
-</div>
 
 ## Contribution Activity
 
