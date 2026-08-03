@@ -35,8 +35,6 @@ const shrimankar16 = {
 ### AI Shopify Theme Builder
 Next.js app for generating Shopify storefront concepts from prompts, previewing them in real time, editing sections inline, and exporting the result into Shopify-friendly theme assets.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrimankar16&repo=Shopify-Theme-Builder&theme=nord&border_color=7dd3fc" />
-
 | Layer | Technology |
 |---|---|
 | Frontend | Next.js, React, Tailwind CSS |
@@ -48,7 +46,6 @@ Next.js app for generating Shopify storefront concepts from prompts, previewing 
 ### Split & Settle
 Full-stack expense-splitting web application for groups sharing trip or rent costs. Tracks shared expenses and calculates optimal settlements using a debt-minimization algorithm.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrimankar16&repo=Split-Settle&theme=nord&border_color=7dd3fc" />
 
 | Layer | Technology |
 |---|---|
