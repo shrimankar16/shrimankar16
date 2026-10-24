@@ -70,7 +70,7 @@ Full-stack expense-splitting web application for groups sharing trip or rent cos
 ![Skills](https://skillicons.dev/icons?i=aws,docker)
 
 **AI / Database**
-![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,postgres,mongodb,mysql)
+![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,postgres,mongodb,mysql,llm,promptengineering)
 
 ## GitHub Stats
 
